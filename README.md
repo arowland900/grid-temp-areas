@@ -1,4 +1,4 @@
-# grid-template-areas / 
+# grid-template-areas
 
 This is a simple project that I created to teach my students about grid template areas & responsive design.
 
